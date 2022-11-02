@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="152"
+   height="20"
+   version="1.1"
+   id="svg1965"
+   sodipodi:docname="badgecdf.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1967"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.1656985"
+     inkscape:cx="46.751136"
+     inkscape:cy="-6.3177211"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1959" />
+  <title
+     id="title1925">R-CMD-check - passing</title>
+  <defs
+     id="defs1937">
+    <linearGradient
+       id="workflow-fill"
+       x1="50%"
+       y1="0%"
+       x2="50%"
+       y2="100%">
+      <stop
+         stop-color="#444D56"
+         offset="0%"
+         id="stop1927" />
+      <stop
+         stop-color="#24292E"
+         offset="100%"
+         id="stop1929" />
+    </linearGradient>
+    <linearGradient
+       id="state-fill"
+       x1="50%"
+       y1="0%"
+       x2="50%"
+       y2="100%">
+      <stop
+         stop-color="#34D058"
+         offset="0%"
+         id="stop1932" />
+      <stop
+         stop-color="#28A745"
+         offset="1"
+         id="stop1934"
+         style="stop-color:#44cc11;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <g
+     fill="none"
+     fill-rule="evenodd"
+     id="g1963">
+    <g
+       font-family="'DejaVu Sans',Verdana,Geneva,sans-serif"
+       font-size="11"
+       id="g1948">
+      <path
+         id="workflow-bg"
+         d="M 0,3 C 0,1.3431 1.3552,0 3.027027,0 H 102 V 20 H 3.027027 C 1.3552,20 0,18.6569 0,17 Z"
+         fill="url(#workflow-fill)"
+         fill-rule="nonzero"
+         style="display:inline" />
+      <text
+         fill="#010101"
+         fill-opacity="0.3"
+         id="text1942"
+         style="display:inline"
+         x="3.0998337"><tspan
+           x="25.298035"
+           y="15"
+           aria-hidden="true"
+           id="tspan1940">coindataflow</tspan></text>
+      <text
+         fill="#ffffff"
+         id="text1946"
+         style="display:inline"
+         x="3.0998337"><tspan
+           x="25.298035"
+           y="14"
+           id="tspan1944">coindataflow</tspan></text>
+    </g>
+    <g
+       transform="translate(102)"
+       font-family="'DejaVu Sans',Verdana,Geneva,sans-serif"
+       font-size="11"
+       id="g1959">
+      <path
+         d="M0 0h46.939C48.629 0 50 1.343 50 3v14c0 1.657-1.37 3-3.061 3H0V0z"
+         id="state-bg"
+         fill="url(#state-fill)"
+         fill-rule="nonzero" />
+      <text
+         fill="#010101"
+         fill-opacity="0.3"
+         aria-hidden="true"
+         id="text1953"
+         style="display:inline"
+         x="6.1425424"><tspan
+           x="10.142542"
+           y="15"
+           id="tspan1951">1.0.0</tspan></text>
+      <text
+         fill="#ffffff"
+         id="text1957"
+         style="display:inline"
+         x="6.1425424"><tspan
+           x="10.142542"
+           y="14"
+           id="tspan1955">1.0.0</tspan></text>
+    </g>
+    <g
+       id="g1522"
+       transform="matrix(0.03399339,0,0,0.03399339,27.952669,33.324682)"
+       style="stroke:#000000;stroke-width:3.34817;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         id="path2608"
+         style="fill:#959da5;fill-opacity:1;stroke:none;stroke-width:49.199;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m -444.46375,-887.3891 a 205.92239,205.92239 0 0 0 -205.92238,205.92239 205.92239,205.92239 0 0 0 205.92238,205.92239 205.92239,205.92239 0 0 0 205.92239,-205.92239 205.92239,205.92239 0 0 0 -205.92239,-205.92239 z m 0,80.72573 c 28.286,0 51.25076,22.95943 51.25076,51.25075 0,28.29136 -22.95943,51.19334 -51.25076,51.19334 a 51.253465,51.253465 0 0 1 -9.36535,-0.86184 l -32.63502,56.53672 a 59.620432,59.620432 0 0 0 -29.53239,-17.06443 l 32.63502,-56.53673 a 50.98345,50.98345 0 0 1 -12.35304,-33.26706 c 0,-28.28246 22.95411,-51.25075 51.25078,-51.25075 z m 43.37929,92.27438 32.63502,56.53672 a 51.411569,51.411569 0 0 1 9.36532,-0.91929 c 28.29136,0 51.25079,22.95764 51.25079,51.25076 0,28.29311 -22.95943,51.1933 -51.25079,51.1933 -28.29132,0 -51.25076,-22.90019 -51.25076,-51.1933 a 50.98345,50.98345 0 0 1 12.35305,-33.26703 l -32.63502,-56.53673 a 59.599117,59.599117 0 0 0 29.53239,-17.06443 z m -128.75894,55.61743 c 22.29412,0 41.22486,14.24533 48.26305,34.12887 h 65.2126 a 59.753667,59.753667 0 0 0 -2.47063,17.12189 59.757221,59.757221 0 0 0 2.47063,17.06443 h -65.2126 c -7.03463,19.88175 -25.96893,34.12887 -48.26305,34.12887 -28.29312,0 -51.25076,-22.90198 -51.25076,-51.1933 0,-28.29136 22.95052,-51.25076 51.25076,-51.25076 z" />
+    </g>
+  </g>
+  <metadata
+     id="metadata6467">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>R-CMD-check - passing</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
